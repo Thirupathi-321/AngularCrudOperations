@@ -17,10 +17,13 @@ namespace AngularCrudOperations.Controllers
 
             return View();
         }
+
         public JsonResult Add_record(register rs)
 
         {
             string res = string.Empty;
+            string res = string.Empty;
+
             try
             {
                 dblayer.Add_record(rs);
