@@ -25,7 +25,8 @@ namespace AngularCrudOperations.Controllers
         public JsonResult Add_record(register rs)
 
         {
-            string res = string.Empty;
+            string res1 = string.Empty;
+
             try
             {
                 dblayer.Add_record(rs);
