@@ -22,6 +22,11 @@ namespace AngularCrudOperations.Controllers
 
             return View();
         }
+        public ActionResult Index2()
+        {
+
+            return View();
+        }
 
         public JsonResult Add_record(register rs)
 
