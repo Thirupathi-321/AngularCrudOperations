@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33403.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularCrudOperations", "AngularCrudOperations\AngularCrudOperations.csproj", "{61D3E2E6-4432-4E0C-B475-F7D687ED023F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61D3E2E6-4432-4E0C-B475-F7D687ED023F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D3E2E6-4432-4E0C-B475-F7D687ED023F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D3E2E6-4432-4E0C-B475-F7D687ED023F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D3E2E6-4432-4E0C-B475-F7D687ED023F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5DDE1E0-8187-42FB-B411-692EB0E4F181}
+	EndGlobalSection
+EndGlobal
