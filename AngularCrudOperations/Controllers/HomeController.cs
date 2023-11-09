@@ -22,6 +22,7 @@ namespace AngularCrudOperations.Controllers
 
         {
             string res = string.Empty;
+            string res = string.Empty;
 
             try
             {
